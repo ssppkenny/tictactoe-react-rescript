@@ -1,4 +1,4 @@
-# ReScript Project Template
+# Tictactoe in Rescript-React
 
 The only official ReScript starter template.
 
