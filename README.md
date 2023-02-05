@@ -1,6 +1,6 @@
 # Tictactoe in Rescript-React
 
-The only official ReScript starter template.
+Tictactoe game written in Rescript-React.
 
 ## Installation
 
