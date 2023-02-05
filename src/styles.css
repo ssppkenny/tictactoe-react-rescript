@@ -1,0 +1,146 @@
+#content {
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.wrapper {
+    border-width: 0px;
+    width: 300px;
+    height: 300px;
+    margin-inline: auto;
+}
+
+div.row {
+    display: table;
+    height: 100px;
+}
+
+.right_middle {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-right-style: none;
+    border-color: black;
+}
+
+.center_middle {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.right_lower {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-color: black;
+}
+
+.center_lower {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-bottom-style: none;
+    border-color: black;
+}
+
+.left_lower {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-left-style: none;
+    border-bottom-style: none;
+    border-color: black;
+}
+
+.left_middle {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-left-style: none;
+    border-color: black;
+}
+
+.left_upper {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-left-style: none;
+    border-top-style: none;
+    border-color: black;
+}
+
+.right_upper {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-top-style: none;
+    border-right-style: none;
+    border-color: black;
+}
+
+.center_upper {
+    display: table-cell;
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-top-style: none;
+    border-color: black;
+}
+
+div.cross {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    color: black;
+    padding: 0px;
+    border-width: 0px;
+    width: 100px;
+    height: 100x;
+    line-height: 100px;
+    font-size: 100px;
+}
+
+div.circle {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    color: red;
+    padding: 0px;
+    border-width: 0px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 100px;
+}
+
+div.winner {
+    background-color: gray;
+}
